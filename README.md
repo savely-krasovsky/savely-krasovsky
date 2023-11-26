@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software and security engineer looking for a job!
+I am a software and security engineer!
 
 ![Savely Krasovsky's stats](https://github-readme-stats.vercel.app/api?username=L11R&show_icons=true&theme=tokyonight)
 
