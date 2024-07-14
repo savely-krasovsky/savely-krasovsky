@@ -2,7 +2,7 @@
 
 I am a software and security engineer!
 
-![Savely Krasovsky's stats](https://github-readme-stats.vercel.app/api?username=L11R&show_icons=true&theme=tokyonight)
+![Savely Krasovsky's stats](https://github-readme-stats.vercel.app/api?username=savely-krasovsky&show_icons=true&theme=tokyonight)
 
 <!--
 **L11R/L11R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
