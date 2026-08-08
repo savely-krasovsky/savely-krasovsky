@@ -2,7 +2,7 @@
 
 I am a software and security engineer!
 
-<p>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
@@ -13,7 +13,7 @@ I am a software and security engineer!
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
     <img alt="Top languages" src="./profile/top-langs.svg">
   </picture>
-</p>
+</div>
 
 <!--
 **L11R/L11R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
