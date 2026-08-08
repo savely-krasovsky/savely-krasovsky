@@ -63,6 +63,9 @@ jobs:
           path: profile/pin-stats-organization-github-readme-stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Remove card borders
+        run: sed -i 's/stroke="#[0-9A-Fa-f]*"/stroke="none"/' profile/*.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

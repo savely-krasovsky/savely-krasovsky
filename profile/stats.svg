@@ -109,7 +109,7 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="none"
           width="466"
           fill="#fffefe"
           stroke-opacity="0"
@@ -229,4 +229,3 @@
   
         </g>
       </svg>
-    
