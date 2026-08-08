@@ -2,7 +2,18 @@
 
 I am a software and security engineer!
 
-![Stats](./profile/stats.svg)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+    <img alt="GitHub stats" src="./profile/stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
+    <img alt="Top languages" src="./profile/top-langs.svg">
+  </picture>
+</p>
 
 <!--
 **L11R/L11R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
