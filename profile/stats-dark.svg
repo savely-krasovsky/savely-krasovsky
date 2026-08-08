@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Savely Krasovsky&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 703, Total Commits  (last year) : 737, Total PRs: 187, Total Issues: 143, Contributed to (last year): 41</desc>
+        <desc id="descId">Total Stars Earned: 703, Total Commits  (last year) : 1082, Total PRs: 187, Total Issues: 143, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #58a6ff;
+            fill: #58A6FF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C3D1D9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C3D1D9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #1f6feb;
+      fill: #1F6FEB;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #58a6ff;
+      stroke: #58A6FF;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #58a6ff;
+      stroke: #58A6FF;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 27.809428155069227;
+        stroke-dashoffset: 24.466872778554055;
       }
     }
   
@@ -109,9 +109,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#30363d"
+          stroke="#e4e2e2"
           width="466"
-          fill="#0d1117"
+          fill="#0D1117"
           stroke-opacity="0"
         />
 
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >737</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,10 +222,11 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >41</text>
+      >43</text>
     </g>
   </g>
     </svg>
   
         </g>
       </svg>
+    
