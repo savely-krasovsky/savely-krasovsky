@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Savely Krasovsky&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 706, Total Commits  (last year) : 1103, Total PRs: 191, Total Issues: 143, Contributed to (last year): 45</desc>
+        <desc id="descId">Total Stars Earned: 706, Total Commits  (last year) : 1098, Total PRs: 191, Total Issues: 143, Contributed to (last year): 45</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.05129848824279;
+        stroke-dashoffset: 24.071644745758547;
       }
     }
   
